@@ -1,0 +1,17 @@
+{
+  "name": "nodbjwt",
+  "version": "1.0.0",
+  "description": "\"A walkthrough JWT. Data is NOT stored in Data B for this one. Instead username and password are stored in a local file.\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antonio Montalvo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookies": "^0.7.1",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.3.0"
+  }
+}
