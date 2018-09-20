@@ -1,0 +1,38 @@
+.display-4 {
+    color: cornflowerblue;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h5 {
+    margin-bottom: 20px ;
+
+    color: darkgray;
+    text-align: center;
+}
+
+nav {
+    margin-top: 10px;
+}
+
+label {
+    color: cornflowerblue;
+}
+
+form {
+	margin: 0 auto;
+    max-width: 460px;
+    background-color: ghostwhite;
+        border-style: ridge;
+        padding: 20px;
+        border-radius: 10px;
+        border-color: aliceblue;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.separator{
+	margin-top: 30px;
+}
